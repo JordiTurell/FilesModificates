@@ -1,3 +1,5 @@
+#Realizado por JordiTurell.
+
 import os, time
 import zipfile
 import datetime
